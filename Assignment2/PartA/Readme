@@ -6,3 +6,4 @@ Assignment2_A_train_test.ipynb is the file using which i performed prediction on
 after that i created a test generator and performed evaluation on test data.
 finally i visualised the predictions on the random images of test data in a grid.
 
+filter_visualisation and guidedbackprop are as name suggests in their respective files comments are there to navigate through the code,just run each block in colab systematically.
