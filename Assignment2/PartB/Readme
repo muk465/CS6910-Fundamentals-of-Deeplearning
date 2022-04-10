@@ -1,0 +1,3 @@
+ load_pretrained_model is a function which takes network like resnet etc and num of trainable layers as arguments 
+ and trains only that many layers of the pre trained model.
+ Just execute each block of code in colab one after other and comments are there to explore through the code.
