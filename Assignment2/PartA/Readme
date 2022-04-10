@@ -2,3 +2,7 @@ Assignment2_A_sweep.ipynb is the file using which i performed sweeps, you can ju
 build_cnn is the function which creates the model of required configuration after that i have defined sweep configuration.
 After that i created a train generator and validation generator, the validation generator is used on 10% of training data and its split after shuffling finally a bayesian sweep is performed.
 
+Assignment2_A_train_test.ipynb is the file using which i performed prediction on the test data ,its similar to Assignment2_A_sweep.ipynb just i have trained the best model for 10 epochs.
+after that i created a test generator and performed evaluation on test data.
+finally i visualised the predictions on the random images of test data in a grid.
+
