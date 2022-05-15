@@ -1,0 +1,7 @@
+Please start with dataprocessing.ipynb
+all steps here are wrt https://keras.io/examples/nlp/lstm_seq2seq/
+next is Sq2Sq_vanilla.ipynb it has components of dataprocessing then a class is created to make a seq2seq model wrt hyperparameters,just run each block on colab
+similarly Sq2Sq_with_attention.ipynb is also same as above just that it has attention layers.
+last is Sq2Sq_train_test.ipynb this file has first dataprocessing content ,then i trained the best vanilla seq model and then tested its accuracy 
+and then i trained best attention model,and tested its accuracy and saved the csv file.
+last is gpt2_song_gen.ipynb it is fine tuned on https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres dataset.
