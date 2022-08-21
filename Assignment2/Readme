@@ -1,0 +1,3 @@
+• Trained a CNN model from scratch and learn how to tune the hyperparameters and visualise filters in Part A
+• Fine tuned a pre-trained model on Imagenet dataset in Part B
+• Fine tuned a Yolov5 model for mask detection in people in PartC
